@@ -13,6 +13,7 @@
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+    display: flex;
 }
  body
  {
@@ -128,4 +129,5 @@
 .register-link p a:hover
 {
     text-decoration: underline;
+
 }
